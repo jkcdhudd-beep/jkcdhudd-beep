@@ -1,7 +1,1 @@
-<p align="center">
-  <img align="left" src="https://avatars.mds.yandex.net/i?id=b38fc53aa0d4f847d02d64624964b7e4e8082c02-10354084-images-thumbs&n=13" width="250" height="200" hspace="20">
-  
-  idi nahui
-  
-  <br clear="both">
-</p>
+<img align="right" src="https://github.com/user-attachments/assets/31c5b090-5a02-4ec8-93ff-79e9732904fc" width="450" />
